@@ -38,6 +38,30 @@ This guide walks you through setting up the project's environment.
 
 If you don't have Python installed yet, head over to the official download page: [Python Download Guide](https://wiki.python.org/moin/BeginnersGuide/Download) and follow the instructions for your operating system (Windows, macOS, or Linux).
 
+**<u>Optional: Creating a Virtual Environment</u>**
+
+1. Install virtualenv (if not already installed):
+
+   If you haven't installed virtualenv, you can do so using pip:
+    ```bash
+    pip install virtualenv
+    ```
+2. Create a virtual environment:
+
+    In the terminal and run this command:
+    ``` bash
+    virtualenv <name_of_virtualenv>
+    ```
+
+3.  Activate the virtual environment:
+
+    To activate the virtual environment:
+    ``` bash
+    venv\Scripts\activate
+    ```
+
+
+
 **2. Download the Repo**
 
 
