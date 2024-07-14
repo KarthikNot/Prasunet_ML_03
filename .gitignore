@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+
+/data
+/Lib
+/Scripts
+/etc
+/share
+.ipynb_checkpoints
+
+*.cfg
