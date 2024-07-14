@@ -42,20 +42,20 @@ If you don't have Python installed yet, head over to the official download page:
 
 1. Install virtualenv (if not already installed):
 
-   If you haven't installed virtualenv, you can do so using pip:
+   - If you haven't installed virtualenv, you can do so using pip:
     ```bash
     pip install virtualenv
     ```
 2. Create a virtual environment:
 
-    In the terminal and run this command:
+    - In the terminal and run this command:
     ``` bash
     virtualenv <name_of_virtualenv>
     ```
 
 3.  Activate the virtual environment:
 
-    To activate the virtual environment:
+    - To activate the virtual environment:
     ``` bash
     venv\Scripts\activate
     ```
